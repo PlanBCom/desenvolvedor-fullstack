@@ -12,8 +12,8 @@ Requisitos
 - Javascript
 - GULP
 - GIT
-- Conhecimento intermediário/avançado em ASP.NET MVC (linguagem C#) ou Wordpress PHP
-- Experiência com o banco de dados SQL Server ou Mysql
+- Conhecimento intermediário/avançado em ASP.NET MVC (linguagem C#) e/ou Wordpress PHP
+- Experiência com o banco de dados SQL Server e/ou Mysql
 
 Desejável
 - Conhecimento de processos ágeis (Scrum)
