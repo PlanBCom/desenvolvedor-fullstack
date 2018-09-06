@@ -5,7 +5,7 @@ A Plan B acredita que a troca de conhecimento é a chave para a adaptação num 
 
 Utilizamos Ruby on Rails, ASP.NET MVC (C#) e PHP como principais plataformas de desenvolvimento, mas o time é incentivado a explorar e testar novas tecnologias para desenvolvimento, buscando mais agilidade, performance e diversão. :)
 
-# Desenvolvedor Frontend
+# Desenvolvedor Fullstack
 Requisitos
 - HTML
 - CSS/SASS
