@@ -34,9 +34,9 @@ Boa sorte!
 #### Requisitos:
 - Criar  página html o mais parecido possível com o layout;
 - O botão "Agende uma visita" deve abrir um modal com um formulário, com os seguintes campos:
--- Nome
--- E-mail
--- Telefone
+* Nome
+* E-mail
+* Telefone
 - O formulário deve ser salvo em um banco de dados e enviado por e-mail (deixar os dados smtp em branco, usaremos um nosso para testes)
 - Ao clicar em enviar, uma mensagem de sucesso ou erro deve ser exibida
 - A página deve ser de rápido carregamento;
