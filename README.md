@@ -10,23 +10,22 @@ Requisitos
 - HTML
 - CSS/SASS
 - Javascript
-- GULP
 - GIT
-- Conhecimento intermediário/avançado em ASP.NET MVC (linguagem C#) e/ou Wordpress PHP
+- Conhecimento intermediário em ASP.NET MVC (linguagem C#)
 - Experiência com o banco de dados SQL Server e/ou Mysql
 
 Desejável
 - Conhecimento de processos ágeis (Scrum)
-- DevOps e/ou ChatOps
+- PHP
 
 # Teste Prático - Etapa 01
-Neste teste prático serão avaliados raciocínio lógico, criatividade, conhecimento técnico e interpretação. Deve ser utilizado .net framework 4.5 ou superior.
+Neste teste prático serão avaliados raciocínio lógico, criatividade, conhecimento técnico e interpretação. Usar preferêncialmente .Net MVC.
 
-O objetivo desse teste é o desenvolvimento frontend da página Site_diferencias.psd
+O objetivo desse teste é o desenvolvimento frontend da página Site_diferencias.psd e salvar dados preenchidos em um formulário.
 
 Quaisquer decisões de melhoria na acessibilidade, usabilidade e design; além do que foi pedido, são permitidos e ficam a cargo do desenvolvedor.
 
-Esta etapa deve ser entregue em um arquivo compactado (.zip) via e-mail [douglas.santos@planb.com.br] . O prazo sugerido para entrega é de até 3 dias a partir do nosso contato. Caso seja entregue após o prazo, se a vaga ainda estiver aberta, você poderá prosseguir normalmente no processo. Note que, quanto antes entregar, maiores serão suas chances de ser avaliado antes da vaga ser preenchida.
+Esta etapa deve ser entregue em um arquivo compactado (.zip) via e-mail [laura.san@planb.com.br] . O prazo sugerido para entrega é de até 3 dias a partir do nosso contato. Caso seja entregue após o prazo, se a vaga ainda estiver aberta, você poderá prosseguir normalmente no processo. Note que, quanto antes entregar, maiores serão suas chances de ser avaliado antes da vaga ser preenchida.
 
 Selecionaremos os melhores trabalhos para prosseguir no processo de seleção.
 Boa sorte!
@@ -38,13 +37,13 @@ Boa sorte!
 Nome
 E-mail
 Telefone
+Data
 ```
 
-- O formulário deve ser salvo em um banco de dados e enviado por e-mail (deixar os dados smtp em branco, usaremos um nosso para testes)
-- Ao clicar em enviar, uma mensagem de sucesso ou erro deve ser exibida
+- O formulário deve ser salvo em um banco de dados e enviado por e-mail (deixar os dados smtp em branco, usaremos um nosso para testes);
+- Ao clicar em enviar, uma mensagem de sucesso ou erro deve ser exibida;
 - A página deve ser de rápido carregamento;
 - Os arquivos devem ser bem organizados;
-- Deve criar uma solução de apresentação pra dispositivos móveis;
-- Em "área restrita", ao clicar, deve aparece uma caixa de login e senha de acordo com critério escolhido pelo desenvolvedor.
+- Deve criar uma solução de apresentação pra dispositivos móveis (responsível);
 - Ao clicar nos textos que estão abaixo do título "ensino integrado" o conteúdo, onde se encontra "diferenciais", deve mudar. Pode-se usar texto de marcação para os demais conteúdos que não o contido no layout.
- - Mapa do site não precisa ter nenhuma ação específica a ser clicado.
+ - Mapa do site NÃO precisa ter nenhuma ação específica a ser clicado.
